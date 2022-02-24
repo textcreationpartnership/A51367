@@ -1,0 +1,693 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem to the King upon the conclusion of peace by Matt. Morgan.</title>
+            <author>Morgan, Matthew, 1652-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51367</idno>
+            <idno type="STC">Wing M2736</idno>
+            <idno type="STC">ESTC R28835</idno>
+            <idno type="EEBO-CITATION">10767646</idno>
+            <idno type="OCLC">ocm 10767646</idno>
+            <idno type="VID">45748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem to the King upon the conclusion of peace by Matt. Morgan.</title>
+                  <author>Morgan, Matthew, 1652-1703.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45748:1" rendition="simple:additions"/>
+            <p>A POEM TO THE KING, UPON The Concluſion of the <hi>PEACE.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Janum Quirini clauſit, &amp; ordinem</l>
+                  <l>Rectum, &amp; regnanti fraena licentiae</l>
+                  <l>Injecit, amovitque culpas</l>
+                  <l>Et veteres revocavit artes.</l>
+               </lg>
+               <lg>
+                  <l>Hic dies vere mihi feſtus atras</l>
+                  <l>Eximet curas, ego nec tumultum</l>
+                  <l>Nec mori per vim metuam, tenente caeſare terras.</l>
+               </lg>
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>By</hi> Matt. Morgan, <hi>L. L. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>E. Whitlock</hi> near <hi>Stationers-Hall.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45748:2"/>
+            <pb facs="tcp:45748:2" rendition="simple:additions"/>
+            <head>TO S<hi rend="sup">r.</hi> Joſeph Tiley, K<hi rend="sup">t.</hi>
+            </head>
+            <head type="sub">A Member of the Honourable <hi>Houſe of Commons.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THIS Poem upon the Concluſion of a Peace, which I am ſure, You, with all great Pa<g ref="char:EOLhyphen"/>triots and true <hi>Engliſhmen,</hi> do heartily Con<g ref="char:EOLhyphen"/>gratulate, doth now ſollicit Your Acceptance as an Acknowledgment of the Friendſhip You have honour'd me with, and to expreſs a gratefull Senſe of thoſe Obligations which have ſo parti<g ref="char:EOLhyphen"/>cularly engag'd me to be</p>
+            <closer>
+               <signed>Your moſt Humble, and Very Affectionate Servant, <hi>Matt. Morgan.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45748:3"/>
+            <pb n="1" facs="tcp:45748:3" rendition="simple:additions"/>
+            <head>A POEM ON The Concluſion of the <hi>PEACE.</hi>
+            </head>
+            <l>WElcome, Great Sir, unto your <hi>Albion</hi>'s Shore,</l>
+            <l>And now the Rocks are whiter than before.</l>
+            <l>An Artiſt once an Eagle did contrive,</l>
+            <l>Mov'd by ſuch ſubtle Springs he ſeem'd alive:</l>
+            <l>This to ſalute an Emperor he brings,</l>
+            <l>And it did ſoar aloft on wooden Wings.</l>
+            <l>
+               <hi>Architas</hi> now his ſecond skill ſhould prove,</l>
+            <l>And meet our peacefull Conqueror with a Dove.</l>
+            <l>So when <hi>Germanicus</hi> from his Conqueſts came,</l>
+            <l>Of which the ſwift fore-runner was his Fame:</l>
+            <l>The Seven Hills had an auſpicious Day;</l>
+            <l>
+               <hi>Rome</hi> was pour'd out to meet him on the way:</l>
+            <l>Of <hi>Romulus</hi> the whole Progeny of Sons,</l>
+            <l>Unto the chearfull Sight the Cripple runs;</l>
+            <l>In his Deliverer a Support doth find,</l>
+            <l>Of all, the moſt unhappy were the blind.</l>
+            <l>War doth, like <hi>Proteus,</hi> aſſume different Shapes,</l>
+            <l>In conflagrations, Murders, and in Rapes:</l>
+            <l>With a whole Family doth kill the Sire,</l>
+            <l>Deſtroys the young ones, and the Neſt doth fire;</l>
+            <l>The ſpoil of Cities, and the Country's growth</l>
+            <l>They ſacrifice to their inhumane ſloath.</l>
+            <l>In ſubterranean Vaults by fury led,</l>
+            <l>They like Jackals are Pyrates on the dead:</l>
+            <l>As Mezzo-tinto doth appear more bright,</l>
+            <l>'Cauſe mingled in it are the Shades of Night;</l>
+            <pb n="2" facs="tcp:45748:4"/>
+            <l>So Joy more vivid is that doth ſucceed</l>
+            <l>Thoſe mournfull Scenes from which we now are free'd:</l>
+            <l>Afflicted <hi>Europe</hi> from the Earth doth riſe,</l>
+            <l>Where ſhe ſo long had ſat with blubber'd Eyes:</l>
+            <l>Her with a Face neglected you might ſee,</l>
+            <l>And Sorrow dreſt in looſe Deſhabilee;</l>
+            <l>In Streams of Grief did bitterly lament,</l>
+            <l>So many Worthies from her Boſom rent,</l>
+            <l>By Death's unerring hand profuſely ſlain,</l>
+            <l>Who with their purple Wounds the Field did ſtain.</l>
+            <l>
+               <hi>Naſſau</hi> her primitive Complexion clears,</l>
+            <l>With beauteous Sun-ſhine hath dry'd up her Tears.</l>
+            <l>Brutes do by inſtinct love their neareſt kin;</l>
+            <l>Leopards won't tear another ſpotted Skin:</l>
+            <l>The Tyrant of the Woods, the ſavage Boar,</l>
+            <l>Doth not pollute his Tusks with mutual Gore;</l>
+            <l>But fierce Mankind each other doth devour;</l>
+            <l>Their Reaſon's Will, and Equity is Power:</l>
+            <l>In hating one another they accord,</l>
+            <l>And Right is meaſur'd by the longeſt Sword:</l>
+            <l>They make Ragouſts of every captive part,</l>
+            <l>They broil the Limbs, and roaſt the panting Heart.</l>
+            <l>The Soldier now chews on the laſt Campaign,</l>
+            <l>In Rumination fights it o'er again,</l>
+            <l>Boaſts of his Wounds the Trophies of the War,</l>
+            <l>Not quite heal'd up he bleeds from ev'ry Scar:</l>
+            <l>Here the bold Horſe a cannonading ſtood,</l>
+            <l>And fill'd the deepeſt Trenches with their Blood:</l>
+            <l>There cloſely preſs'd the reeling Troops did bend,</l>
+            <l>And there <hi>Naſſau</hi> did timely Succours ſend:</l>
+            <l>Where Death the thickeſt flew he did appear,</l>
+            <l>Was multiply'd and charg'd ev'ry where.</l>
+            <l>So an old wither'd Mariner we hear,</l>
+            <l>Whoſe Locks are all turn'd white with Age and Fear,</l>
+            <l>Number the Rocks on which he oft was caſt,</l>
+            <l>And count the dangers of his Shipwracks paſt.</l>
+            <l>Exalted high, a moſt prodigious Spout,</l>
+            <l>On trembling Veſſels pours a Deluge out:</l>
+            <l>Juſt as ſome Rivers ſo impetuous are,</l>
+            <l>They don't bring Tribute to the Sea but War:</l>
+            <l>Now the vex'd Ocean ſhall be at eaſe,</l>
+            <l>Your Trident mitigates the angry Seas.</l>
+            <l>The Merchant whom experience doth refine,</l>
+            <l>Scorch'd with the Calentures of the Torrid Line,</l>
+            <pb n="3" facs="tcp:45748:4"/>
+            <l>Unto the ſooty, diſtant <hi>Indies</hi> rolls,</l>
+            <l>And doth with mutual Commerce joyn the Poles.</l>
+            <l>But now no ſculking Privateers doe wait</l>
+            <l>In treacherous Ambuſcade to ſink his Freight:</l>
+            <l>The Winds impregnating his Canvas Wings,</l>
+            <l>He brings home Riches which would ranſom Kings.</l>
+            <l>The <hi>Engliſh</hi> Spirits once were almoſt ſunk,</l>
+            <l>And with miſtaken Loyalty were drunk:</l>
+            <l>Some were corrupted with a Golden Shower</l>
+            <l>To introduce an arbitrary Power;</l>
+            <l>They would not with the Fruit contented be,</l>
+            <l>But as a Preſent they tore up the Tree:</l>
+            <l>Aſham'd we can't refell this juſt Reproach,</l>
+            <l>That Jeſuits all our Morals did debauch;</l>
+            <l>The Principles of our Religion gone,</l>
+            <l>That we might theirs receive, that's next to none:</l>
+            <l>Theſe ſpiritual Buccaneers did proſelyte</l>
+            <l>Some ſilly Creatures with their daring Light;</l>
+            <l>Within their Pale the Raſcal Deer did bring,</l>
+            <l>Into the <hi>Tyber</hi> we our Offals fling.</l>
+            <l>That was the time when glorious <hi>Ruſſel</hi> fell,</l>
+            <l>Mothers his Fate ſhall to their Children tell;</l>
+            <l>From future People ſhall extort a Tear,</l>
+            <l>When they his diſmal Tragedy ſhall hear.</l>
+            <l>
+               <hi>Ruſſel!</hi> in all Accompliſhments improv'd,</l>
+            <l>Not <hi>Alcibiades</hi> was more belov'd;</l>
+            <l>Bleſt with a better Man no Land could be,</l>
+            <l>He had his Valour from his Vices free:</l>
+            <l>His Character was complaiſant and brave,</l>
+            <l>Polite as <hi>Athens,</hi> and like <hi>Sparta,</hi> grave;</l>
+            <l>As moſt enormous Murders they ſhall quote,</l>
+            <l>Great <hi>Ruſſel</hi>'s Head, and pious <hi>Eſſex</hi> Throat:</l>
+            <l>The Hell-hounds did a double Scent purſue,</l>
+            <l>His reeking Blood did ſpill the others too;</l>
+            <l>Their generous Vertue as a Crime did tax,</l>
+            <l>The Razor was a Prelude to the Ax:</l>
+            <l>Our enterprizing Fierceneſs was curb'd down,</l>
+            <l>By him who wore a ſoft luxurious Crown:</l>
+            <l>By Heavens broad Commiſſion you were ſent,</l>
+            <l>Our pall'd and languid Courage to ferment.</l>
+            <l>You from our Swords ſcour'd th' inglorious Ruſt,</l>
+            <l>And did in equal hands thoſe Weapons truſt:</l>
+            <l>Which crops of Slaughter from the Field did reap,</l>
+            <l>
+               <hi>Pelion</hi> of Bodies did on <hi>Oſſa</hi> heap:</l>
+            <pb n="4" facs="tcp:45748:5"/>
+            <l>Rang'd under ſuch a wiſe and brave Command,</l>
+            <l>Sea was our own before, and now the Land;</l>
+            <l>Like a rich Heireſs <hi>Flanders</hi> was beſet,</l>
+            <l>The Rival her Conſent by force would get:</l>
+            <l>As ſome anticipate the Nuptial Bed,</l>
+            <l>The Miſtreſs firſt debauch'd they after wed:</l>
+            <l>She of another is the fruitfull Bride,</l>
+            <l>You did aſſert her to the lawfull ſide.</l>
+            <l>
+               <hi>Lucretia</hi> to <hi>Naſſau</hi> her ſelf applies,</l>
+            <l>Her Tears You did eſpouſe, and vindicate her cries:</l>
+            <l>You likewiſe do inſtruct our <hi>Britiſh</hi> Race,</l>
+            <l>They Lines of Vertue by your Model trace:</l>
+            <l>The Shafts of reaſoning in vain are ſpent,</l>
+            <l>Mankind is harden'd againſt argument:</l>
+            <l>But great example ſweetly doth entice,</l>
+            <l>And with Attraction draws You from the Vice.</l>
+            <l>A practis'd goodneſs no one can withſtand,</l>
+            <l>It is a ſharp, tho' ſilent Reprimand.</l>
+            <l>The Male-contented Wretches now are croſt,</l>
+            <l>And curſe their raſhneſs in their Wagers loſt;</l>
+            <l>Againſt their Country's ſafety they did lay,</l>
+            <l>Which they of foreign Power would make a Prey:</l>
+            <l>But now they whiſper in an humble Tone,</l>
+            <l>And let them in the Gallies row alone:</l>
+            <l>Ty'd down in ſervile Chains there let them be,</l>
+            <l>Whilſt great <hi>Flaminius</hi> hath proclaim'd us free:</l>
+            <l>They all are ſowr'd with a malitious Leaven,</l>
+            <l>As Giants once, now Pigmies do brave Heaven:</l>
+            <l>For this is ſuch a ſtrange, anomolous Race,</l>
+            <l>
+               <hi>Africk</hi> it ſelf theſe Monſters would diſgrace.</l>
+            <l>So <hi>Titus</hi> did <hi>Jeruſalem</hi> beſiege,</l>
+            <l>The Enemies he conquer'd did oblige.</l>
+            <l>He, like Great <hi>William,</hi> was Mankind's Delight,</l>
+            <l>And equally their Terror in a Fight:</l>
+            <l>The Temple of it's Ornaments bereft,</l>
+            <l>His Pity mov'd, the tender Hero wept:</l>
+            <l>When the rude Soldiers he could not with-hold,</l>
+            <l>His Eyes did flow like to the melted Gold,</l>
+            <l>Which in a glittering Inundation pours</l>
+            <l>From Cedar-roofs, and the rich maſſy Doors.</l>
+            <l>In vain, the <hi>Romans</hi> batt'ring Rams did uſe,</l>
+            <l>So obſtinate was the Courage of the <hi>Jews.</hi>
+            </l>
+            <l>They gnaw'd their Bowels out, the City falls</l>
+            <l>By the Seditions within the Walls.</l>
+            <pb n="5" facs="tcp:45748:5"/>
+            <l>You Sir, the genuine Antidote have found,</l>
+            <l>And cruſh'd the mutinous Viper on the Wound:</l>
+            <l>What Foes are left, impartially are bleſt,</l>
+            <l>Involv'd in common ſafety with the reſt.</l>
+            <l>The Seaſons of the Year your Peace adorn,</l>
+            <l>
+               <hi>Pomona</hi> brings you Fruit, and <hi>Ceres</hi> Corn,</l>
+            <l>And <hi>Amalthea</hi> pours a liberal Horn;</l>
+            <l>
+               <hi>Chlio</hi> doth tune her long-neglected Strings,</l>
+            <l>And every Muſe a gratefull Offering brings.</l>
+            <l>War but from them remov'd was very loud,</l>
+            <l>Like Thunder roaring in a foreign Cloud:</l>
+            <l>Whilſt the thick Vollies dark the Heavens made,</l>
+            <l>They liv'd ſecure, protected by the ſhade:</l>
+            <l>Fatigues of War did reſt to them afford,</l>
+            <l>Their Paradice was guarded by your Sword:</l>
+            <l>So of <hi>Bermudaes</hi> the delicious Iſle,</l>
+            <l>Where Heaven with intimate regards doth ſmile,</l>
+            <l>An healthfull and unclouded Air doth boaſt,</l>
+            <l>With dreadfull Lightning all about the Coaſt:</l>
+            <l>In Gardens polite <hi>Italy</hi> doth delight,</l>
+            <l>Where there are Labyrinths which amuſe the Sight;</l>
+            <l>All the Parterres with curious Statues full,</l>
+            <l>A well wrought <hi>Hercules</hi> and <hi>Farneſe</hi>'s Bull:</l>
+            <l>There they the flowing Element conſtrain,</l>
+            <l>And forcing puts the Water-Nymphs to pain:</l>
+            <l>The arch'd Jettaus do there tranſverſly play,</l>
+            <l>And through the middle there's a verdant way.</l>
+            <l>To quench the Sun they a moiſt refuge get,</l>
+            <l>And in a Cryſtal Arbor are not wet.</l>
+            <l>So though with You deſpotick Death did rule,</l>
+            <l>Under thoſe Showers of Blood we ſtill were cool.</l>
+            <l>Who, Sir, can juſtly celebrate Your Worth,</l>
+            <l>Who brought us Peace, not Tempeſts from the <hi>North?</hi>
+            </l>
+            <l>The learned <hi>Rudbeck</hi> now the more we prize,</l>
+            <l>Who affirm'd <hi>Sweden</hi> to be Paradice.</l>
+            <l>The Lots are caſt out of a Funeral Urn,</l>
+            <l>The Mediator for his King doth mourn.</l>
+            <l>Juſt ſo the wat'ry Rain-bow doth appear,</l>
+            <l>It Sun-ſhine is refracted in a Tear.</l>
+            <l>
+               <hi>Guſtavus</hi> Race made his Extraction great,</l>
+            <l>As did his Mother's <hi>Holſtien</hi> Goodneſs ſweet:</l>
+            <l>This poſthumous Work the Monarch doth ſurvive,</l>
+            <l>
+               <hi>Archives</hi> of time ſhall keep his Fame alive.</l>
+            <l>Some barbarous Subjects do their Prince engage,</l>
+            <l>That he'll enſure them from a Tempeſt's rage;</l>
+            <pb n="6" facs="tcp:45748:6"/>
+            <l>In moroſe Showers that Heaven ſhall never frown,</l>
+            <l>Fair Weather is the tenure of his Crown:</l>
+            <l>Some on the contrary their words perform,</l>
+            <l>And their whole Reign is a perpetual Storm.</l>
+            <l>You all our future days ſhall make ſerene,</l>
+            <l>And not a Cloud ſhall interpoſe between.</l>
+            <l>Some Princes do from humane ſight withdraw,</l>
+            <l>That being ſeldom ſeen may ſtrike an awe.</l>
+            <l>There they're confin'd unto a cloſe retreat,</l>
+            <l>And call Obſcurity the being great.</l>
+            <l>Tho' Nature ſome hath ſo auguſtly made,</l>
+            <l>They cannot be conceal'd in Maſquerade:</l>
+            <l>For the imperial Luſtre of their Eyes</l>
+            <l>Darts ſtrictures thro' the beſt contriv'd Diſguiſe.</l>
+            <l>The oftner we our Monarch do enjoy,</l>
+            <l>The pleaſure is not trite, nor doth it cloy.</l>
+            <l>In Your appearance there is freſh delight,</l>
+            <l>And ſtill our Love encreaſeth with the ſight.</l>
+            <l>The <hi>Ruſſian</hi> Duke did travell from afar,</l>
+            <l>Led by the influence of his Northern Star;</l>
+            <l>That he great <hi>Britain</hi>'s Genius might view,</l>
+            <l>And pay an Homage to his Courage due:</l>
+            <l>The preſence of <hi>Naſſau</hi> when near he came,</l>
+            <l>Did not diminiſh but augment his Fame:</l>
+            <l>You made his manners warlike and polite,</l>
+            <l>He learn'd from you how to converſe and fight.</l>
+            <l>Great Spirits are by cloſe engagements ty'd,</l>
+            <l>And by a ſecret Sympathy ally'd.</l>
+            <l>To a magnetick Centre union tends,</l>
+            <l>And mighty Princes at firſt ſight are Friends.</l>
+            <l>The <hi>Czar</hi> by Proxy carries on a War,</l>
+            <l>And in his abſence is a Conqueror:</l>
+            <l>So that two different Joys we mingled ſee,</l>
+            <l>Of healing Peace, and bloody Victory.</l>
+            <l>And this young <hi>Tamerlain</hi> with his martial rage</l>
+            <l>Shall put the <hi>Ottoman</hi> Empire in a cage:</l>
+            <l>As <hi>Tomyris</hi> who was in <hi>Scythia</hi> bred,</l>
+            <l>Drench'd in deep Blood the <hi>Perſian</hi> Tyrant's head.</l>
+            <l>Aſpirers in their own Intrigues are caught,</l>
+            <l>Loſt in the Wilderneſs of boundleſs Thought:</l>
+            <l>On the Meridian-line, like wild fire run,</l>
+            <l>They croſs the <hi>Helleſpont</hi> and <hi>Rubicon:</hi>
+            </l>
+            <l>Then they wind up, and they will act no more,</l>
+            <l>And this they might as well have done before:</l>
+            <pb n="7" facs="tcp:45748:6"/>
+            <l>Who can Ambition in true Colours paint?</l>
+            <l>To follow all its turns the Pen would faint:</l>
+            <l>Like a fierce Horſe with a licentious Rein;</l>
+            <l>No Aires of manage can his ſpeed reſtrain;</l>
+            <l>Begotten by the Wind away he flies,</l>
+            <l>And throws his Rider down the Precipice;</l>
+            <l>The Quarry ſtruck upon the ground doth lie,</l>
+            <l>The fall as vile as once its flight was high;</l>
+            <l>Like a ſharp Jilt that a young Heir would catch,</l>
+            <l>She ſtoops at laſt to an ignoble Match:</l>
+            <l>Projects like Eaſtern Locuſts ſtill abound,</l>
+            <l>Theſe Inſects cover and deſtroy the ground,</l>
+            <l>Like thoſe who dance in a convulſive round.</l>
+            <l>The Nerves, where the pernitious Venom's ſpread,</l>
+            <l>Do twiſt them in a circle till they're dead.</l>
+            <l>Your Pique of Honour doth with temper beat</l>
+            <l>'Tis regular health and not a feav'riſh heat;</l>
+            <l>Of other's ſafety the bright Guardian made,</l>
+            <l>You always did preſerve and not invade.</l>
+            <l>You by propitious Heaven were deſign'd,</l>
+            <l>Both to deliver and oblige Mankind,</l>
+            <l>To take off Fetters, and in ſofter bind.</l>
+            <l>When led by you even timorous Men would dare,</l>
+            <l>For you with them do equal danger ſhare.</l>
+            <l>So <hi>Julius</hi> from pleading at the Bar,</l>
+            <l>Was an <hi>Adeptus</hi> in the art of War:</l>
+            <l>At <hi>Munda</hi> 'twas a peremptory ſtrife,</l>
+            <l>He fought not for his Honour but his Life:</l>
+            <l>He did his <hi>Romans</hi> Fellow-Soldiers call,</l>
+            <l>Then they afreſh on <hi>Pompey</hi>'s Sons did fall:</l>
+            <l>The rally'd Eagles gorg'd upon their Prey,</l>
+            <l>And the tenth Legion ſhow'd the reſt the way.</l>
+            <l>
+               <hi>Auguſtus,</hi> Sir, was a faint type of You,</l>
+            <l>For you <hi>Octavius</hi> did far out-do:</l>
+            <l>You by Your Merit did to Empire come,</l>
+            <l>Your <hi>Boyne</hi> exceeded far his <hi>Actium.</hi>
+            </l>
+            <l>
+               <hi>Mark Anthony</hi> was by Amour betray'd,</l>
+            <l>And <hi>Cleopatra</hi> him a Coward made:</l>
+            <l>His Miſtreſs to his Honour did preferr,</l>
+            <l>And left the world behind to follow her.</l>
+            <l>They err, who think the Globe was over-run,</l>
+            <l>By the <hi>Pellean</hi> Youth of <hi>Macedon:</hi>
+            </l>
+            <l>He was the Darling of capricious Fate,</l>
+            <l>And raſhneſs only made him fortunate.</l>
+            <pb n="8" facs="tcp:45748:7"/>
+            <l>
+               <hi>Darius</hi> furniſh'd out a pompous Sight,</l>
+            <l>It was a Pageantry and not a Fight.</l>
+            <l>That War no Triumph merited to ſlay,</l>
+            <l>All thoſe effeminate Troops at <hi>Arbela;</hi>
+            </l>
+            <l>People ſo weak, they could not ſtand a blow,</l>
+            <l>The Phalanx then broke in and ſpoil'd the ſhow.</l>
+            <l>But when great <hi>William</hi> enter'd in the Liſt,</l>
+            <l>He found an Enemy that could reſiſt;</l>
+            <l>Acquir'd and native Courage made them bold,</l>
+            <l>Under their Shells, like Tortoiſes grown old.</l>
+            <l>
+               <hi>Naſſau</hi> with Stratagem did counter-mine,</l>
+            <l>The fineneſs of each politick Deſign:</l>
+            <l>With <hi>Perſonal</hi> Valour on his Foes he runs,</l>
+            <l>And ſcorns the modern Cowardice of Guns:</l>
+            <l>This an <hi>ex tempore</hi> Deſtruction brings,</l>
+            <l>'Tis the laſt reaſon of contending Kings.</l>
+            <l>
+               <hi>Aratus</hi> daring only was by night,</l>
+            <l>Your genuine Conqueſts can endure the Light:</l>
+            <l>He like the Ghoſts he made, did glide away,</l>
+            <l>At the firſt pointing of approaching day.</l>
+            <l>You did with Rays as bright confront the Sun;</l>
+            <l>He, when You fought, took pleaſure to look on:</l>
+            <l>Dangers betimes upon Your Life did ſeize,</l>
+            <l>It ſcarce had the variety of eaſe.</l>
+            <l>Troubles, like Waves, puſh'd one another on,</l>
+            <l>Without a Gap of Intermiſſion.</l>
+            <l>The <hi>Indian</hi> Fig-tree thus doth largely ſpread,</l>
+            <l>From a ſmall root obtains a mighty head:</l>
+            <l>Branches from thence hang down upon the earth,</l>
+            <l>And there are quicken'd with a ſecond Birth:</l>
+            <l>So it immenſely multiply'd they ſee,</l>
+            <l>And a whole Wood ſprings from a ſingle Tree.</l>
+            <l>VVhat you intend no Augury can divine,</l>
+            <l>Nothing grows looſe, the Cement is ſo fine:</l>
+            <l>Only weak Spirits their deſigns expoſe,</l>
+            <l>The Folds of Yours are intricate and cloſe.</l>
+            <l>Symptoms of Maladies attack the Man,</l>
+            <l>Theſe avaunt Couriers do lead the Van:</l>
+            <l>VVith velitary Arms they firſt begin,</l>
+            <l>Pickere and skirmiſh in the outward Skin.</l>
+            <l>Theſe previous warnings do engage our care,</l>
+            <l>That we againſt Hoſtilities may prepare;</l>
+            <l>In Ambuſcade but ſome diſtempers lie,</l>
+            <l>'Tis Death, there is no room for Victory.</l>
+            <pb n="9" facs="tcp:45748:7"/>
+            <l>The fatal Indications then appear,</l>
+            <l>When You're paſt hopes, and no relief is near:</l>
+            <l>So wiſe concerted meaſures are diſplaid,</l>
+            <l>When you are deſtitute of humane aid:</l>
+            <l>In looſe Harangue and voluble Diſcourſe,</l>
+            <l>There is no Energy of Nerves nor Force:</l>
+            <l>Tho' You the <hi>tympanum</hi> with attention ſtrain,</l>
+            <l>And ſift the Sand, there's not one tempting Grain.</l>
+            <l>So ductile Gold drawn out into a length,</l>
+            <l>Preſerves its Colour but doth loſe its Strength.</l>
+            <l>The precious Oar Your accurate Art refines,</l>
+            <l>And in a weighty, ſolid maſs it ſhines:</l>
+            <l>There's nothing to be loſt, Your Sayings are</l>
+            <l>Maxims of Conduct both in Peace and War.</l>
+            <l>So a rich Country mountainous appears,</l>
+            <l>And rough unto the firſt Diſcoverers;</l>
+            <l>But in the progreſs of their ſearch they find</l>
+            <l>All that can gratifie the Senſe or Mind.</l>
+            <l>Fancy doth only on the Surface play,</l>
+            <l>But Judgment pierceth with a deeper Ray:</l>
+            <l>With genial warmth deſcends unto the root,</l>
+            <l>Dilates the Branches, and matures the Fruit.</l>
+            <l>Upon a train of obſervations built,</l>
+            <l>Experience is Prudence double gilt.</l>
+            <l>Then Paſſion is a Stranger to Your Breaſt,</l>
+            <l>Is never there, or prudently ſuppreſt:</l>
+            <l>Of Spirits that are mean, the puny Wrath</l>
+            <l>Is a light Bubble, or a thicker Froth:</l>
+            <l>But juſtly rous'd, the Anger of the Great</l>
+            <l>Is not ſo turbulent as it is ſweet.</l>
+            <l>So when fierce <hi>Neptune</hi> in the Sea doth rave,</l>
+            <l>The Ambergreaſe comes floating on the Wave.</l>
+            <l>Altho' reſentment ſometimes ſhould take place,</l>
+            <l>You do ſuppreſs it all with Acts of Grace:</l>
+            <l>Your Clemency doth let bold Rebels live,</l>
+            <l>As You can conquer, ſo You can forgive.</l>
+            <l>Kingdoms do riſe to an imperial Sway,</l>
+            <l>And then fall back by gradual decay:</l>
+            <l>Force without Counſel brings them to the brink,</l>
+            <l>They with their own unweildy burden ſink:</l>
+            <l>But Your Dominion ſhall continue long,</l>
+            <l>So wiſely laid, the Baſis is ſo ſtrong.</l>
+            <l>All Sciences their ripe Perfection gain,</l>
+            <l>Are calculated nicely for Your Reign.</l>
+            <pb n="10" facs="tcp:45748:8"/>
+            <l>New Stars are in the upper Regions found,</l>
+            <l>And <hi>Archimedes</hi> can the Earth turn round.</l>
+            <l>Your Judges are the Oracles of Law,</l>
+            <l>They are all Luſtre without any Flaw;</l>
+            <l>Are the bright Jewels in Your Radiant Crown,</l>
+            <l>And Arms muſt yield unto the learned Gown.</l>
+            <l>Phyſick doth all its <hi>Noſtrums</hi> now impart,</l>
+            <l>It can't ſtretch farther than <hi>Lyſander</hi>'s Art;</l>
+            <l>Who doth his skilfull Lenitives apply,</l>
+            <l>And his good humor's half the Remedy:</l>
+            <l>The vegetable Kingdom now is known,</l>
+            <l>Arts immature before are fully blown.</l>
+            <l>Muſick unto the higheſt pitch is ſtrain'd,</l>
+            <l>And all the claſſick Authors are explain'd.</l>
+            <l>The Pulpit is no longer hung with Chains,</l>
+            <l>From paſſive Texts the ſervile Wretch abſtains:</l>
+            <l>Nor ties us down with Conſcience to be Slaves,</l>
+            <l>But Succour when himſelf's diſtreſs'd he craves.</l>
+            <l>To a <hi>non ultra</hi> Valour You purſue,</l>
+            <l>And rules of Conduct owing are to You:</l>
+            <l>The rougheſt Obſtacles You overcame,</l>
+            <l>By ſteep Aſcents have reach'd the top of Fame.</l>
+            <l>Mankind that now is in reverſion,</l>
+            <l>Will ſcarce believe the acts that You have done;</l>
+            <l>Like thoſe who at portentous Comets gaze,</l>
+            <l>Your Hiſtory will inſtruct them, and amaze.</l>
+            <l>Great <hi>William</hi>'s Siege, and <hi>Vaudemont</hi>'s Retreat</l>
+            <l>Shall fire their Spirits with an emulous heat.</l>
+            <l>Fortune who others makes her ſavage ſport,</l>
+            <l>Applauds His Courage, doth His Beauty court:</l>
+            <l>When they ſhall read <hi>Naſſau</hi> in every Page,</l>
+            <l>They'll wiſh that they had liv'd in ſuch an Age;</l>
+            <l>Complain of Nature to them ſo unkind,</l>
+            <l>To caſt them in Poſterity behind.</l>
+            <l>The joyfull Senate doth <hi>Auguſtus</hi> meet,</l>
+            <l>Which of conſummate Wiſdom is the ſeat.</l>
+            <l>About their Planet they concentrick move,</l>
+            <l>And are the bright Satellites to <hi>Jove.</hi>
+            </l>
+            <l>
+               <hi>London</hi> with Jubilee her King receives,</l>
+            <l>His Triumphs ſhould be cut in Baſs-Relieves.</l>
+            <l>Let <hi>Gibbons</hi> his <hi>Corinthian</hi> Image caſt,</l>
+            <l>Which time's corroding Venom may out-laſt.</l>
+            <l>The Hero mounted on a flaming Steed</l>
+            <l>Breathing forth Slaughter, with impatient Speed:</l>
+            <pb n="11" facs="tcp:45748:8"/>
+            <l>Rais'd to divert and terrifie the Sight,</l>
+            <l>Who with his Paws anticipates the Fight:</l>
+            <l>Finiſh'd by ſuch a Maſter of his Trade,</l>
+            <l>He's honour'd more than when a Conſul made.</l>
+            <l>Your great Metropolis doth never want</l>
+            <l>Men, like their Buildings, very elegant:</l>
+            <l>In Portico's of Commerce when they walk,</l>
+            <l>The old <hi>Lycaeum</hi> could not finer talk.</l>
+            <l>In foreign Lands they firſt try how to thrive,</l>
+            <l>And then return full loaded to the Hive.</l>
+            <l>The <hi>Thames</hi> like <hi>Tagus</hi> in a wealthy Flood</l>
+            <l>Mixeth Alliances with noble Blood:</l>
+            <l>And great <hi>Naſſau</hi> with his Balſamick Peace,</l>
+            <l>Their Rights will not detract from, but encreaſe.</l>
+            <l>With the <hi>Britannick,</hi> now the <hi>Bourbon</hi> Stars</l>
+            <l>Combine in Amity to extinguiſh Wars.</l>
+            <l>The Roſes with the Lillies now ſhall ſpread,</l>
+            <l>Make a Complexion with their White and Red:</l>
+            <l>And their Perfumes united now ſhall yield,</l>
+            <l>A Fragrancy to the delicious Field.</l>
+            <l>Let now the ſharp Antagoniſts be mute,</l>
+            <l>And ſilence every harſh, moroſe Diſpute.</l>
+            <l>They ſqueamiſhly at firſt refus'd the Teſt,</l>
+            <l>But did at laſt comply for intereſt.</l>
+            <l>This hath their dull, affected Scruples clear'd,</l>
+            <l>The heavy Creatures cut and interfer'd:</l>
+            <l>But now that gilded Harneſs them doth brace,</l>
+            <l>They all are brought unto an ambling pace.</l>
+            <l>From <hi>Pompey</hi>'s unto <hi>Caeſar</hi>'s ſide did turn,</l>
+            <l>When that <hi>Ucalegon</hi> ſo near did burn:</l>
+            <l>Let now the Oath which they ſo coyly took,</l>
+            <l>With an oblique and a regretting look,</l>
+            <l>Their Sowrneſs with ſoft <hi>Anodynes</hi> allay,</l>
+            <l>And all the bilious humour purge away.</l>
+            <l>Let now ſome adequate and happy Pen,</l>
+            <l>Record the braveſt and the beſt of Men.</l>
+            <l>All Authors joyn'd ſhould his <hi>Encomiums</hi> write,</l>
+            <l>Not laſh with Scorpions, nor with Satyres bite:</l>
+            <l>Thus in a Chorus of Seraphick Love,</l>
+            <l>Our Heaven below ſhall rival that above.</l>
+            <l>To <hi>Mecha</hi> Pilgrims bigotted repair,</l>
+            <l>To ſee a Tomb ſuſpended in the Air:</l>
+            <l>Where lies enclos'd the Forger of their Law,</l>
+            <l>Which powerfull Load-ſtones to the middle draw:</l>
+            <pb n="12" facs="tcp:45748:9"/>
+            <l>Thus bleſt to wilfull darkneſs they're confin'd,</l>
+            <l>Tho' they with Superſtition firſt were blind:</l>
+            <l>So I great <hi>Britain</hi> only wiſh'd to ſee</l>
+            <l>From foreign as from civil Diſcords free.</l>
+            <l>Let <hi>Damon</hi> now, who on my Boſom lies,</l>
+            <l>With <hi>Janus</hi> Temple ſhut my longing Eyes.</l>
+            <l>All other Objects after will annoy,</l>
+            <l>Let me expire in the <hi>Olympick</hi> Joy.</l>
+            <l>But firſt with Incenſe I will Heaven invoke,</l>
+            <l>Thick as the Clouds it meets with, let it ſmoke:</l>
+            <l>Let theſe, when I ſhall feel the Pangs of Death,</l>
+            <l>Be the laſt Accents of my dying Breath;</l>
+            <l>May long and very proſperous be the Days</l>
+            <l>Of Great <hi>Naſſau,</hi> whom all the World doth praiſe;</l>
+            <l>To make the Nation happy he did ſave,</l>
+            <l>Before his Laurels bend him to the Grave.</l>
+            <l>Let florid health keep in Your vital Fire,</l>
+            <l>That of Three Kingdoms with it muſt expire:</l>
+            <l>Like <hi>Atlas,</hi> You ſuſtain the weighty Ball,</l>
+            <l>With its Protector <hi>Chriſtendom</hi> muſt fall.</l>
+            <l>Myriads of Lives with Yours enfolded lie,</l>
+            <l>Their Threads are twiſted with Your Deſtiny;</l>
+            <l>Let all Conſpiracies abortive die.</l>
+            <l>When You muſt yield unto impartial Fate,</l>
+            <l>(But let it be deferr'd and very late)</l>
+            <l>You ſhall in Heaven enjoy a laſting Calm,</l>
+            <l>With Robes of Light, and a Triumphant Palm.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45748:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
